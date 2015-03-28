@@ -2,7 +2,6 @@ use std::io::{BufRead, Read, BufReader};
 use std::env;
 use std::fs::File;
 use std::path::Path;
-use std::error::Error;
 
 pub fn main() {
 
